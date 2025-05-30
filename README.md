@@ -1,5 +1,7 @@
 # Multiancestry_LRRK2_p.A419V
 
+created by: Lim Kai Shi (limkaishi612@gmail.com)
+
 ## Summary
 This is the online repository for the manuscript titled "The LRRK2 p.A419V risk variant influences age of onset for Parkinson's disease in East Asian populations"
 
