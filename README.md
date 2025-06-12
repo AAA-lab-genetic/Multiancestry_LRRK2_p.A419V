@@ -31,7 +31,7 @@ THIS_REPO
 ## Notebooks Description
 - Languages: Python, bash, and R
 |Directory| Notebook  |Description                                                                       |
-|:--------------|:--------------|:-------------------------------------------------------------------       |
+|:--------------|:--------------|:------------------------------------------------------------------- |
 |GP2/| 00_A419V_data_preparation.ipynb |  Downloading and structuring data     | 
 |:-------| 01_A419V_variant_analysis_release9.ipynb |  Analyzes GP2 genotyped data across ancestries      | 
 |:-------| 03_A419V_haplotype_release9.ipynb | Analyzes haplotype around A419V in GP2 genotyped data |
