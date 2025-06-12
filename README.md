@@ -30,6 +30,7 @@ THIS_REPO
 
 ## Notebooks Description
 - Languages: Python, bash, and R
+
 |Directory| Notebook  |Description                                                                       |
 |:--------------|:--------------|:------------------------------------------------------------------- |
 |GP2/| 00_A419V_data_preparation.ipynb |  Downloading and structuring data     | 
