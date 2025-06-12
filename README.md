@@ -6,11 +6,21 @@ This is the online repository for the manuscript titled "The LRRK2 p.A419V risk 
 
 ## Repository Orientation
 ```
-analysis/
-├── 01_A419V_variant_analysis_release9.ipynb
-└── 02_A419V_AMP-PD.ipynb
-└── 03_A419V_haplotype_release9.ipynb
-└── 04_A419V_AAO_analysis_release9.ipynb
+THIS_REPO
+└── README.md
+└── analysis
+    └── AMP-PD
+    |   └── 01_A419V_AMP-PD.ipynb    
+    └── GP2
+        └── 00_A419V_data_preparation.ipynb
+        ├── 01_A419V_variant_analysis_release9.ipynb
+        └── 02_A419V_haplotype_release9.ipynb
+        └── 03_A419V_AAO_analysis_release9.ipynb
+
+
+
+
+
 
 ```
 
