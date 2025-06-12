@@ -35,8 +35,8 @@ THIS_REPO
 |:--------|:-----------------------------------------|:-----------------------------------------------------------|
 |GP2/     | 00_A419V_data_preparation.ipynb          |  Downloading and structuring data                          | 
 |         | 01_A419V_variant_analysis_release9.ipynb |  Analyzes GP2 genotyped data across ancestries             | 
-|         | 03_A419V_haplotype_release9.ipynb        | Analyzes haplotype around A419V in GP2 genotyped data      |
-|         | 04_A419V_AAO_analysis_release9.ipynb     | Analyzes Age of Onset for PD A419V carrier and non-carrier |
+|         | 02_A419V_haplotype_release9.ipynb        | Analyzes haplotype around A419V in GP2 genotyped data      |
+|         | 03_A419V_AAO_analysis_release9.ipynb     | Analyzes Age of Onset for PD A419V carrier and non-carrier |
 |AMP-PD/  | 01_A419V_AMP-PD.ipynb                    | Analyzes AMP-PD whole-genome sequencing data               |
 
 # Software
