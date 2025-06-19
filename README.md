@@ -8,7 +8,7 @@ This is the online repository for the manuscript titled "The LRRK2 p.A419V risk 
 - All GP2 data are hosted in collaboration with the Accelerating Medicines Partnership in Parkinson's Disease and are available via application on the website. The GP2 PD case and control data are available via the GP2 website (https://gp2.org; release 9: [https://doi.org/10.5281/zenodo.10472143](https://zenodo.org/records/14510099)). Genotyping imputation, quality control, ancestry prediction, and processing were performed using GenoTools (v1.0.0), publicly available on GitHub
 - UKB statement?
 - The All of Us genomic data are available under restricted access for human subject data. Access can be obtained by following the instructions under the All of Us workbench
-- SG-EAS-WES statement?
+- For EAS-WES data, Individual-level genotype data will be made available upon reasonable request and after approval by the relevant institutional review board. Please refer to Data availability section in Chew, E.G., Liu, Z., Li, Z. et al. Nat Aging. 2025 (https://doi.org/10.1038/s43587-024-00760-7) for more information.
 
 # Repository Orientation
 ```
