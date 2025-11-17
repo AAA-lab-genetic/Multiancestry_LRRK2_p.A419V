@@ -1,5 +1,10 @@
 # Multiancestry_LRRK2_p.A419V
 
+`GP2 ❤️ Open Science 😍`
+
+[![DOI](https://zenodo.org/badge/DOI/nnnnn/zenodo.nnnnn.svg)](https://doi.org/nnnnn/zenodo.nnnnn)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 ## Summary
 This is the online repository for the manuscript titled "The LRRK2 p.A419V risk variant influences age of onset for Parkinson's disease in East Asian populations". This study aims to resolve inconsistencies in previous reports by providing robust evidence that that the LRRK2 p.A419V is a significant risk player for PD in the EAS population while looking into data from multiple ancestries. The study also explores the variant's association with age at onset.
@@ -38,11 +43,12 @@ THIS_REPO
 |         | 02_A419V_haplotype_release9.ipynb        | Analyzes haplotype around A419V in GP2 genotyped data      |
 |         | 03_A419V_AAO_analysis_release9.ipynb     | Analyzes Age of Onset for PD A419V carrier and non-carrier |
 |AMP-PD/  | 01_A419V_AMP-PD.ipynb                    | Analyzes AMP-PD whole-genome sequencing data               |
+|AllOfUs| 01_LRRK2_A419V_AllofUs.ipynb             | Analyzes All-of-us whole-genome sequencing data               |
 
 # Software
-|Software| Version(s)  |Resource URL    | RRID | Notes                                         |
-|:-------|:------------|:---------------|------|---------------------------------------------- |
-|Python Programming Language|   |   |  | |
-|R Project for Statistical Computing | |  |  | |
-|PLINK | | |  | |
+|       **Software**                | **Version(s)** |           **Resource URL**                                           |   **RRID**     |                                                               **Notes**                                               |
+|:---------------------------------:|:--------------:|:--------------------------------------------------------------------:|:--------------:|:---------------------------------------------------------------------------------------------------------------------:|
+| Python Programming Language       |3.10            |http://www.python.org/                                                | RRID:SCR_008394| pandas; numpy; seaborn; matplotlib; statsmodel; rpy2; used for general data wrangling/plotting/analyses                     |
+|R Project for Statistical Computing|4.4.2           |http://www.r-project.org/                                             | RRID:SCR_001905| tidyverse; dplyr; tidyr; ggplot2; car; cowplot; grid; RColorBrewer; forestmodel; survival; used for general data wrangling/plotting/analyses|
+|PLINK                              |1.9 and 2.0     |http://www.nitrc.org/projects/plink                                   | RRID:SCR_001757| used for genetic analyses                                                                                             |
 
